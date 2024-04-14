@@ -1,6 +1,6 @@
-# 🚀 Data Engineering Projects by Le Duc Nguyen (Nick Le)
+# 🚀 Data Engineering Projects
 
-Hello! I'm **Le Duc Nguyen**, but you can call me **Nick Le**. I'm a junior Data Engineer with a keen interest in **Cloud Computing**. This repository is where I share my learning journey and projects as I delve deeper into these fascinating fields.
+Hello! I'm **Le Duc Nguyen**, but you can call me **Nick Le**. I'm a junior Data Engineer with a keen interest in **Cloud Computing**. This is where I share my learning journey and projects as I delve deeper into these fascinating fields.
 
 ## 📊 Project 1: Sales Analytics with PySpark on Microsoft Azure Databricks
 
