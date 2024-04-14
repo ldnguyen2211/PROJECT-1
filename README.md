@@ -19,3 +19,5 @@ I'm currently working on more projects to further hone my skills in Data Enginee
 I'm **Le Duc Nguyen (Nick Le)**, a data engineer with a passion for learning and problem-solving. I'm new to the field, but I'm eager to learn and grow. You can learn more about me on my LinkedIn 
 
 <[linkedin.com/in/nguyenle21](https://www.linkedin.com/in/nguyenle21/)>
+
+![DASHBOARD](https://github.com/ldnguyen2211/PROJECT-1/assets/166994568/981eae01-527f-4a8e-9254-d6beee8481fb)
