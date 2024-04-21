@@ -2,7 +2,7 @@
 
 Hello! I'm **Le Duc Nguyen**, but you can call me **Nick Le**. I'm a junior Data Engineer with a keen interest in **Cloud Computing**. This is where I share my learning journey and projects as I delve deeper into these fascinating fields.
 
-## 📊 Project 1: Sales Analytics with PySpark on Microsoft Azure Databricks
+## 📊 Project 1 - Azure: Sales Analytics with PySpark on Microsoft Azure Databricks
 
 This is my first project, where I've analyzed retail sales data using PySpark on Microsoft Azure Databricks. It's been a great learning experience, and I'm excited to share it with you.
 
